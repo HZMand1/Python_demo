@@ -10,6 +10,8 @@
 
 - test_data 是用来造测试数据的，使用了Faker的库
 
+- selenium 暂时是简单的调起chrome而已
+
 ### 如有帮助，欢迎打赏
 
 ![](https://thumbnail0.baidupcs.com/thumbnail/b00c177429ea9bfcf4d19db2723027f8?fid=2906429674-250528-299069462941895&time=1576630800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lOybfP2or9jQFP5Ed65GvkaJKME%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8149654424233674282&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
