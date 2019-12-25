@@ -1,6 +1,8 @@
 # 存放了学习python的各种例子
 ## 功能说明
-- fangjia 是对链家网二手房的数据爬取，保存成csv文件
+- fangjia 文件是对链家网的爬虫代码
+    + changsha 是对长沙的二手房的爬虫数据，保存成excel文件
+    + lianjia 是对深圳的二手房的爬虫数据，保存成csv文件
 
 - itwechat 是使用网页版微信的各种接口
 
