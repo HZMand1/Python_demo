@@ -17,7 +17,7 @@
 
 ### 如有帮助，欢迎打赏
 
-![](jetbrains://pycharm/navigate/reference?project=Python_demo&path=QRCode/wechart_qr_code.jpg)
+![image](https://github.com/chenchu001/shopcart/blob/master/static/images/shopcart.png)
 
 
 
