@@ -1,5 +1,9 @@
 # 存放了学习python的各种例子
 ## 功能说明
+- chrome_driver 准备是用来存放更种第三方插件的
+
+- douyin 准备着手挑战下抖音App
+
 - fangjia 文件是对链家网的爬虫代码
     + changsha 是对长沙的二手房的爬虫数据，保存成excel文件
     + lianjia 是对深圳的二手房的爬虫数据，保存成csv文件
