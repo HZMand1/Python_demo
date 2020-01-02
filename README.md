@@ -17,7 +17,9 @@
 
 ### 如有帮助，欢迎打赏
 
-![image](https://github.com/chenchu001/shopcart/blob/master/static/images/shopcart.png)
+<img src="https://github.com/HZMand1/Python_demo/blob/master/QRCode/wechart_qr_code.jpg" width="300">
+
+
 
 
 
