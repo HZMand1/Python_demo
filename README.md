@@ -17,7 +17,7 @@
 
 ### 如有帮助，欢迎打赏
 
-<img src="https://github.com/HZMand1/Python_demo/blob/master/QRCode/wechart_qr_code.jpg" width="200">
+<img src="https://github.com/HZMand1/Python_demo/blob/master/QRCode/wechart_qr_code.jpg" width="300">
 
 
 
