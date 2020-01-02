@@ -16,7 +16,6 @@
 - selenium 暂时是简单的调起chrome而已
 
 ### 如有帮助，欢迎打赏
-<img src="https://github.com/favicon.ico" width="48">
 
 <img src="https://github.com/HZMand1/Python_demo/blob/master/QRCode/wechart_qr_code.jpg" width="200">
 
