@@ -19,6 +19,8 @@
 
 ![image](https://github.com/HZMand1/Python_demo/blob/master/QRCode/wechart_qr_code.jpg){:height="100" width="100"}
 
+![test](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v8){:height="100" width="100"}
+
 
 
 
